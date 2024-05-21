@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "ee4517552d71bb86",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a0ab134028727c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb64447544405636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Задачи/Классические Задачи/Регрессия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c26ddd8f3c986c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf0a0946e2eb9987",
+    "type": "split",
+    "children": [
+      {
+        "id": "2374f19727305e40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526c8c98ded14167",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60791bc10b598fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68b1fe4aafbb9fcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "e550c44fe7ac69b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "197b68bf1e273646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cf48f77d31e229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d40046d3926b2c75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daf56d4dec2a464e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "770f55ca505cccd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/Задачи/Классические Задачи/Бинарная Классификация.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e6c26ddd8f3c986c",
+  "lastOpenFiles": [
+    "Без названия",
+    "ML/Задачи/Классические Задачи/Регрессия.md",
+    "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+    "ML/Метрики",
+    "ML/Задачи",
+    "ML/Задачи/NLP",
+    "ML/Задачи/Классические Задачи",
+    "ML"
+  ]
+}
