@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "536e52f21b7ea427",
+        "id": "77de184d48623696",
         "type": "split",
         "children": [
           {
@@ -17,7 +17,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Алгоритмы/Сортировка выбором.md",
+                    "file": "Алгоритмы/Алгоритмы сортировки/Сортировка выбором.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7eccb6b93ce083f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Алгоритмы/Алгоритмы сортировки/Устойчивость Сортировок.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e0e9767ddb662af0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Алгоритмы/Алгоритмы сортировки/Сортировка слиянием.md",
                     "mode": "source",
                     "source": false
                   }
@@ -51,14 +75,15 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
-            "id": "a1323a24a9c24dde",
+            "id": "502273edd9946130",
             "type": "tabs",
             "children": [
               {
-                "id": "eb9eabde61fff4b8",
+                "id": "a6390aa4886bb9f6",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -87,7 +112,7 @@
                       },
                       "serial": {
                         "columns": 111,
-                        "data": "Microsoft Windows [Version 10.0.19045.4412]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add .",
+                        "data": "Microsoft Windows [Version 10.0.19045.4412]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add .",
                         "rows": 13
                       }
                     }
@@ -222,9 +247,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb9eabde61fff4b8",
+  "active": "a6390aa4886bb9f6",
   "lastOpenFiles": [
-    "Алгоритмы/Сортировка выбором.md",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка слиянием.md",
+    "Алгоритмы/Алгоритмы сортировки/Устойчивость Сортировок.md",
+    "Алгоритмы/Алгоритмы сортировки",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка выбором.md",
     "Справка.md",
     "Вопросы к собесам",
     "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
