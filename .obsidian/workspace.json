@@ -4,68 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "5c186c1dca2e1fb1",
+        "id": "c91e5a294e172c6b",
         "type": "split",
         "children": [
           {
-            "id": "a695986a3df3101d",
+            "id": "831d930628ceaf6d",
             "type": "tabs",
             "children": [
               {
-                "id": "7e39f043b73dc0eb",
+                "id": "0d5fa7f7ce4628af",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8190d3ee6f63b7ce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ML/Задачи/NLP - Обработка текстов/2й Класс/Ответы на вопросы Question answering.md",
+                    "file": "Git_Docker_DVC_HugFe/Git.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "eccc6b34f177889e",
+                "id": "52514ab9db18cc9f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ML/Задачи/NLP - Обработка текстов/3й Класс/Порождение текста Text generation.md",
+                    "file": "Git_Docker_DVC_HugFe/Docker.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "96da96e232079291",
+                "id": "aaa02a9595292219",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ML/Задачи/NLP - Обработка текстов/3й Класс/Автоматическое реферирование Automatic summarization.md",
+                    "file": "Git_Docker_DVC_HugFe/Git.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "63efadd24d8fb52b",
+                "id": "9b9b7da0daa76287",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ML/Задачи/NLP - Обработка текстов/3й Класс/Машинный перевод Machine translation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b3589b7a9d64d988",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
+                    "file": "Git_Docker_DVC_HugFe/Docker.md",
                     "mode": "source",
                     "source": false
                   }
@@ -75,11 +71,11 @@
             "currentTab": 4
           },
           {
-            "id": "772e5abd383a3d3e",
+            "id": "a66569d8c18e9444",
             "type": "tabs",
             "children": [
               {
-                "id": "a2fee948ae458dc1",
+                "id": "87ed5b5797124e3a",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -108,7 +104,7 @@
                       },
                       "serial": {
                         "columns": 104,
-                        "data": "Microsoft Windows [Version 10.0.19045.4412]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add .",
+                        "data": "Microsoft Windows [Version 10.0.19045.4412]\r\n(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.\r\n\r\nC:\\Users\\Dmitriy\\Desktop\\Job\\My_Obsisdan_Books>git add",
                         "rows": 13
                       }
                     }
@@ -243,41 +239,42 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a2fee948ae458dc1",
+  "active": "87ed5b5797124e3a",
   "lastOpenFiles": [
+    "Git_Docker_DVC_HugFe/Docker.md",
+    "Без названия.md",
+    "Шаблоны Проектирования",
+    "Git_Docker_DVC_HugFe/HuggingFace.md",
+    "Git_Docker_DVC_HugFe/Git.md",
+    "Git_Docker_DVC_HugFe/DVC.md",
+    "Git_Docker_DVC_HugFe",
+    "Диплом",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Синтаксический парсинг Syntactic parsing.md",
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Выделение границ предложения Sentence boundary disambiguation.md",
+    "Алгоритмы/Алгоритмы сортировки/Устойчивость Сортировок.md",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка слиянием.md",
+    "Алгоритмы/Алгоритмы сортировки/Сортировка выбором.md",
+    "TFCP/Каледодок.md",
+    "TFCP/05.06.24.md",
+    "TFCP/Каледодок",
+    "TFCP",
     "ML/Задачи/Классические Задачи/Бинарная Классификация.md",
-    "ML/Задачи/Классические Задачи/Регрессия.md",
-    "ML/Задачи/NLP - Обработка текстов/3й Класс/Диалоговые модели Dialog and conversational models.md",
     "ML/Задачи/NLP - Обработка текстов/3й Класс/Машинный перевод Machine translation.md",
     "ML/Задачи/NLP - Обработка текстов/3й Класс/Автоматическое реферирование Automatic summarization.md",
     "ML/Задачи/NLP - Обработка текстов/3й Класс/Порождение текста Text generation.md",
+    "ML/Задачи/Классические Задачи/Регрессия.md",
+    "ML/Задачи/NLP - Обработка текстов/3й Класс/Диалоговые модели Dialog and conversational models.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Ответы на вопросы Question answering.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Языковые модели Language models.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Информационный поиск Information retrieval.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Выделение отношений или фактов Relationship extraction, fact extrac-tion.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Анализ тональности Sentiment analysis.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Синтаксический парсинг Syntactic parsing.md",
     "ML/Задачи/NLP - Обработка текстов/1й Класс/Распознавание именованных сущностей Named entity recognition.md",
     "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение смысла слов  Word sense disambiguation.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение кореференций  Coreference resolution.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Пословная сегментация  Word segmentation.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Морфологическая сегментация Morphological segmentation.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Частеречная разметка Part-of-speech tagging.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Стемминг или Лемматизация Stemming or Lemmatization.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Выделение границ предложения Sentence boundary disambiguation.md",
-    "Алгоритмы/Алгоритмы сортировки/Сортировка слиянием.md",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Выделение отношений или фактов - relationship extraction, fact extrac-tion",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Анализ тональности -  sentiment analysis",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Информационный поиск -  information retrieval",
     "ML/Задачи/NLP - Обработка текстов/2й Класс/Языковые модели - language models",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение кореференций - coreference resolution",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Синтаксический парсинг - syntactic parsing",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение смысла слов - word sense disambiguation",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Распознавание именованных сущностей - named entity recognition",
-    "Справка.md",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Пословная сегментация - word segmentation",
-    "ML/Задачи/NLP - Обработка текстов/1й Класс/Выделение границ предложения - sentence boundary disambiguation",
-    "Алгоритмы/Алгоритмы сортировки/Устойчивость Сортировок.md",
-    "Алгоритмы/Алгоритмы сортировки/Сортировка выбором.md"
+    "ML/Задачи/NLP - Обработка текстов/1й Класс/Разрешение кореференций - coreference resolution"
   ]
 }
